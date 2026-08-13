@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: b6163c7353b17414cb9ef88869eb2d78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4909633371632839798
+    second: RememberHerFaceText_v001_0
+  - first:
+      213: 4967288047996929870
+    second: RememberHerFaceText_v001_1
+  - first:
+      213: -3633183076111835205
+    second: RememberHerFaceText_v001_2
+  - first:
+      213: -1339152036136715870
+    second: RememberHerFaceText_v001_3
+  - first:
+      213: -3493557864911410103
+    second: RememberHerFaceText_v001_4
+  - first:
+      213: 2132917472110360483
+    second: RememberHerFaceText_v001_5
+  - first:
+      213: 1947809709268788752
+    second: RememberHerFaceText_v001_6
+  - first:
+      213: -6354276574799821398
+    second: RememberHerFaceText_v001_7
+  - first:
+      213: 3957230519054654313
+    second: RememberHerFaceText_v001_8
+  - first:
+      213: -4300403578295239744
+    second: RememberHerFaceText_v001_9
+  - first:
+      213: -5918295243775467163
+    second: RememberHerFaceText_v001_10
+  - first:
+      213: -4014432616566366314
+    second: RememberHerFaceText_v001_11
+  - first:
+      213: 7260297863008000019
+    second: RememberHerFaceText_v001_12
+  - first:
+      213: 6196083380896030647
+    second: RememberHerFaceText_v001_13
+  - first:
+      213: 4866114692289641433
+    second: RememberHerFaceText_v001_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 82
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83db6af57a7ddbb0800000000000000
+      internalID: -4909633371632839798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4786ed692a5fe440800000000000000
+      internalID: 4967288047996929870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2
+        width: 113
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf9460ed37549dc0800000000000000
+      internalID: -3633183076111835205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2
+        width: 75
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a974d971506a6de0800000000000000
+      internalID: -1339152036136715870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ceeaba1a3648fc0800000000000000
+      internalID: -3493557864911410103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2
+        width: 74
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7bc54e325a99d10800000000000000
+      internalID: 2132917472110360483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 2
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016e5035c92080b10800000000000000
+      internalID: 1947809709268788752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 2
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa588722f1311d7a0800000000000000
+      internalID: -6354276574799821398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_8
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b5696d038eae630800000000000000
+      internalID: 3957230519054654313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_9
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbb4e4eab5e154c0800000000000000
+      internalID: -4300403578295239744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_10
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 2
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56121ee05ddfddda0800000000000000
+      internalID: -5918295243775467163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_11
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2
+        width: 72
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fd1dafdced948c0800000000000000
+      internalID: -4014432616566366314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_12
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 2
+        width: 78
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3189e109072c1c460800000000000000
+      internalID: 7260297863008000019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_13
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 0
+        width: 77
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf5205b109ecf550800000000000000
+      internalID: 6196083380896030647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberHerFaceText_v001_14
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 2
+        width: 74
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbbb36e789e78340800000000000000
+      internalID: 4866114692289641433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RememberHerFaceText_v001_0: -4909633371632839798
+      RememberHerFaceText_v001_1: 4967288047996929870
+      RememberHerFaceText_v001_10: -5918295243775467163
+      RememberHerFaceText_v001_11: -4014432616566366314
+      RememberHerFaceText_v001_12: 7260297863008000019
+      RememberHerFaceText_v001_13: 6196083380896030647
+      RememberHerFaceText_v001_14: 4866114692289641433
+      RememberHerFaceText_v001_2: -3633183076111835205
+      RememberHerFaceText_v001_3: -1339152036136715870
+      RememberHerFaceText_v001_4: -3493557864911410103
+      RememberHerFaceText_v001_5: 2132917472110360483
+      RememberHerFaceText_v001_6: 1947809709268788752
+      RememberHerFaceText_v001_7: -6354276574799821398
+      RememberHerFaceText_v001_8: 3957230519054654313
+      RememberHerFaceText_v001_9: -4300403578295239744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

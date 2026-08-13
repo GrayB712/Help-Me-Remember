@@ -1,0 +1,9 @@
+MouseClick,ButtonPressedDown,
+WorldSwitchWoosh,WorldBeganSwitching
+WatchButtonDown,WatchButtonDown,
+WatchButtonUp,WatchButtonUp,
+MouseClick,DialogueBoxClicked,
+MouseClick,BeginCloseViewingScreen
+MouseClick,BeginOpenViewingScreen
+PageTurnWoosh,BeginDiaryPageTurn
+RadioPlaySong,RadioStartedPlaying

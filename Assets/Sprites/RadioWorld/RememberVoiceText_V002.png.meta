@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 0fa14ca6cb739594691be44ee00b9e55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4983700677136074692
+    second: RememberVoiceText_V002_0
+  - first:
+      213: 1523903588925779861
+    second: RememberVoiceText_V002_1
+  - first:
+      213: -7462771281044989183
+    second: RememberVoiceText_V002_2
+  - first:
+      213: 7757066215728452021
+    second: RememberVoiceText_V002_3
+  - first:
+      213: -4537362062611173980
+    second: RememberVoiceText_V002_4
+  - first:
+      213: -4443722740853055892
+    second: RememberVoiceText_V002_5
+  - first:
+      213: -1958986387060721258
+    second: RememberVoiceText_V002_6
+  - first:
+      213: -4755963865604394603
+    second: RememberVoiceText_V002_7
+  - first:
+      213: -8770134075148834428
+    second: RememberVoiceText_V002_8
+  - first:
+      213: -3279615728265403971
+    second: RememberVoiceText_V002_9
+  - first:
+      213: 2588325811716213243
+    second: RememberVoiceText_V002_10
+  - first:
+      213: -7850312729832410676
+    second: RememberVoiceText_V002_11
+  - first:
+      213: -2404700896515153963
+    second: RememberVoiceText_V002_12
+  - first:
+      213: -6182781224184659270
+    second: RememberVoiceText_V002_13
+  - first:
+      213: 2809456298861376509
+    second: RememberVoiceText_V002_14
+  - first:
+      213: -3285079275326449047
+    second: RememberVoiceText_V002_15
+  - first:
+      213: 4970191407358870171
+    second: RememberVoiceText_V002_16
+  - first:
+      213: -1116882212920750412
+    second: RememberVoiceText_V002_17
+  - first:
+      213: -550663106178452704
+    second: RememberVoiceText_V002_18
+  - first:
+      213: 1964854624213622738
+    second: RememberVoiceText_V002_19
+  - first:
+      213: 8543030207026167133
+    second: RememberVoiceText_V002_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c383e6093a656dab0800000000000000
+      internalID: -4983700677136074692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f2dd97d3ef52510800000000000000
+      internalID: 1523903588925779861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b93513f09ee6890800000000000000
+      internalID: -7462771281044989183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b19dafdf92a6ab60800000000000000
+      internalID: 7757066215728452021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_4
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad2ab87e3d0801c0800000000000000
+      internalID: -4537362062611173980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ed02706b9b452c0800000000000000
+      internalID: -4443722740853055892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_6
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6997b67924840d4e0800000000000000
+      internalID: -1958986387060721258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_7
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5917e0aff0c6ffdb0800000000000000
+      internalID: -4755963865604394603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_8
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489643a56893a4680800000000000000
+      internalID: -8770134075148834428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_9
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1e4fc0fd67c72d0800000000000000
+      internalID: -3279615728265403971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_10
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9c15abc949be320800000000000000
+      internalID: 2588325811716213243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_11
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1bc9a3a261e0390800000000000000
+      internalID: -7850312729832410676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_12
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df96287649c0aed0800000000000000
+      internalID: -2404700896515153963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_13
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2c4800c39523aa0800000000000000
+      internalID: -6182781224184659270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_14
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3bd916e913df620800000000000000
+      internalID: 2809456298861376509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_15
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a5b2fddcd0962d0800000000000000
+      internalID: -3285079275326449047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_16
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92035570caa9f440800000000000000
+      internalID: 4970191407358870171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_17
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be08ea7b890080f0800000000000000
+      internalID: -1116882212920750412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_18
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1
+        width: 22
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023f15d82d6ab58f0800000000000000
+      internalID: -550663106178452704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_19
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 0
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df5987ded0944b10800000000000000
+      internalID: 1964854624213622738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RememberVoiceText_V002_20
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 1
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5df93bd5b0fe8670800000000000000
+      internalID: 8543030207026167133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RememberVoiceText_V002_0: -4983700677136074692
+      RememberVoiceText_V002_1: 1523903588925779861
+      RememberVoiceText_V002_10: 2588325811716213243
+      RememberVoiceText_V002_11: -7850312729832410676
+      RememberVoiceText_V002_12: -2404700896515153963
+      RememberVoiceText_V002_13: -6182781224184659270
+      RememberVoiceText_V002_14: 2809456298861376509
+      RememberVoiceText_V002_15: -3285079275326449047
+      RememberVoiceText_V002_16: 4970191407358870171
+      RememberVoiceText_V002_17: -1116882212920750412
+      RememberVoiceText_V002_18: -550663106178452704
+      RememberVoiceText_V002_19: 1964854624213622738
+      RememberVoiceText_V002_2: -7462771281044989183
+      RememberVoiceText_V002_20: 8543030207026167133
+      RememberVoiceText_V002_3: 7757066215728452021
+      RememberVoiceText_V002_4: -4537362062611173980
+      RememberVoiceText_V002_5: -4443722740853055892
+      RememberVoiceText_V002_6: -1958986387060721258
+      RememberVoiceText_V002_7: -4755963865604394603
+      RememberVoiceText_V002_8: -8770134075148834428
+      RememberVoiceText_V002_9: -3279615728265403971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
